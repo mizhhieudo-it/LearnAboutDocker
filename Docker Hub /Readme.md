@@ -27,6 +27,7 @@ Trang chủ của Docker hub là https://www.docker.com/community-edition#/add_o
       sudo docker pull jenkins
 
 chúng ta sẽ được kết quả như sau
+
 ![Result-oull-jenkins](https://www.tutorialspoint.com/docker/images/ubuntu_server.jpg)
 Để chạy jenkins , bạn cần phải chạy theo yêu yêu cầu
 
