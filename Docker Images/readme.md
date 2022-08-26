@@ -18,10 +18,10 @@ Một số điểm lưu ý ở ví dụ trên
 
 - Chúng ta đang sử dụng sudo command để chấp chạy với quyền `root` access
 - ở đấy , `centos` là tên của images` mà chúng ta cần tải xuống từ docker hub và cài đặt trên máy Ubuntu
-- - it là sử dụng để đề cập rằng chúng ta muốn chạy trên `interactive mode`
+- it là sử dụng để đề cập rằng chúng ta muốn chạy trên `interactive mode`
 - /bin/bash là sử dụng để chạy bash shell sau khi CentOS được thiết lập và chạy
 
-## Hiển thị `Docker iamges`
+## Hiển thị `Docker images`
 
 Để nhìn thấy danh sách của docker images trên hệ thống , bạn có thể đưa ra lệnh sau
 docker images
