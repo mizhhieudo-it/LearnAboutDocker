@@ -39,4 +39,5 @@ Lưu ý theo dõi các điểm về ví dụ trên sudo
 - `p` được sử dụng để map cổng port của Docker images với cổng port của main Ubuntu Server của chúng ta , tuy nhiên chúng ta có thể truy cập `container` tương ứng
 
 ![Description-images-docker](https://www.tutorialspoint.com/docker/images/sudo_command.jpg)
+
 chúng ta sẽ có JEnkins cài đặt thành công chạy với một container trên máy ubuntu .
